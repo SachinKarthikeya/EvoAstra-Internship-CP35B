@@ -16,7 +16,7 @@ This project aims to generate descriptive captions for the given images by imple
 **Captions Cleaning and Tokenization**
 * Loaded the captions text file, which contains 5 captions per each image
 * Mapped each word to a unique integer using a tokenizer
-* * Pre-processed the captions like deleting digits, special characters, additional spaces and adding start and end tokens to the beginning and end of each caption
+* Pre-processed the captions like deleting digits, special characters, additional spaces and adding start and end tokens to the beginning and end of each caption
 
 **Train/Test Split**
 * Split the dataset into 90% for training and 10% for testing purposes
