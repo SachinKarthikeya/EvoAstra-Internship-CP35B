@@ -22,7 +22,7 @@ This project aims to generate descriptive captions for the given images by imple
 * Split the dataset into 90% for training and 10% for testing purposes
 * Defined a batch generator which includes a padding sequence to normalizes the size of all captions to the max size for better results.
 
-**Model Building** Evaluation
+**Model Building** 
 * Built the model using Tensorflow encoder-decoder architecture
 * Summarized and plotted the model for numerical and visual representation of the model architecture
 
